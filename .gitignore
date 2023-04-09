@@ -1,0 +1,27 @@
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Hugo files
+/resources/_gen/
+/public/
+
+# Hugo generated files in the custom publishDir
+/docs/
+
+# Node.js dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.swp
+*.log
+*~
+
+# Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject

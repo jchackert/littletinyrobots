@@ -1,0 +1,41 @@
+baseURL = "https://www.littletinyrobots.io/"
+languageCode = "en-us"
+title = "Little Tiny Robots"
+theme = "holy"
+publishDir = "docs"
+
+[params]
+  author = "Jeff Hackert"
+  description = "A blog about little tiny robots and technology"
+
+[params.social]
+  github = "jchackert"
+  linkedin = "jchackert"
+  email = "jeff@supergroup.co"
+
+[markup]
+  [markup.highlight]
+    noClasses = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 3
+
+[build]
+  writeStats = true
+
+[outputFormats]
+  [outputFormats.RSS]
+    mediatype = "application/rss"
+
