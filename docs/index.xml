@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Little Tiny Robots</title>
+    <link>https://www.littletinyrobots.io/</link>
+    <description>Recent content on Little Tiny Robots</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2023 13:06:28 -0700</lastBuildDate><atom:link href="https://www.littletinyrobots.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://www.littletinyrobots.io/about/</link>
+      <pubDate>Sun, 09 Apr 2023 13:12:38 -0700</pubDate>
+      
+      <guid>https://www.littletinyrobots.io/about/</guid>
+      <description>Jeff Hackert </description>
+    </item>
+    
+    <item>
+      <title>Unstuck Article 1</title>
+      <link>https://www.littletinyrobots.io/posts/unstuck-article-1/</link>
+      <pubDate>Sun, 09 Apr 2023 13:06:28 -0700</pubDate>
+      
+      <guid>https://www.littletinyrobots.io/posts/unstuck-article-1/</guid>
+      <description>Unstuck: Getting to Implement from Argument This is the first of six articles on effective team coaching for Engineering Managers, Product Designers, and Project Managers. Sometimes, teams get stuck. The role an engineering manager plays in team communication is crucial. Our interactions can help a team find its way forward, or they can create confusion, sending the team in a direction they may not feel confident in. One sign that a team is stuck arguing back and forth.</description>
+    </item>
+    
+  </channel>
+</rss>
