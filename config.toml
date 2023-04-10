@@ -6,7 +6,8 @@ publishDir = "docs"
 
 [params]
   author = "Jeff Hackert"
-  description = "A blog about little tiny robots and technology"
+  description = "Effective Engineering Management Practices"
+  keywords = "engineering, agile, lean, software, development, management, manager, engineering manager"
 
 [params.social]
   github = "jchackert"
