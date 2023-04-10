@@ -6,9 +6,7 @@
 # Hugo files
 /resources/_gen/
 /public/
-
-# Hugo generated files in the custom publishDir
-/docs/
+/themes/
 
 # Node.js dependencies
 node_modules/
